@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "description": "A história de um ninja com um sonho.",
+    "cover": "/images/naruto.jpg",
+    "chapters": [
+      {
+        "pages": ["/images/naruto1.jpg", "/images/naruto2.jpg"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "description": "Piratas em busca do tesouro lendário.",
+    "cover": "/images/onepiece.jpg",
+    "chapters": [
+      {
+        "pages": ["/images/onepiece1.jpg", "/images/onepiece2.jpg"]
+      }
+    ]
+  }
+]
